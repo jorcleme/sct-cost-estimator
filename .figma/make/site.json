@@ -1,0 +1,10 @@
+{
+  "description": "Provides detailed cost estimates and tokenomics analysis for generating articles with an intuitive UI, aiding content creators in budgeting and planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
